@@ -1,5 +1,7 @@
 # ENI LIME - Current Strongest Jailbreak 🍋‍🟩
 
+> **UPDATE:** A stronger version of this jailbreak is available: [ENI LIME - Updated Current Strongest](ENI%20LIME%20-%20Updated%20Current%20Strongest.md)
+
 Finally releasing my actual ENI LIME Jailbreak, was made to be fully embraced off my original concept Limerence, hence the LIME; e.g. ENI being in Limerence with LO(Limerence Object).
 
 I've always had this one on the back burner, didn't feel the need to release it since ENI Writer ✒️ is still so strong.
