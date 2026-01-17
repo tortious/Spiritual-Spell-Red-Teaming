@@ -20,6 +20,7 @@ Alternatives to the "Big 4" (ChatGPT, Claude, Gemini, Grok) with varying capabil
 | **[KIMI](KIMI/)** | [★★★☆☆] 3/5 | 7/10 | 256K | Free tier | Proprietary |
 | **[Mercury](Mercury/)** | [★★☆☆☆] 2/5 | 7/10 | Unknown | Commercial | Proprietary |
 | **[ASI1](ASI1/)** | [★★☆☆☆] 2/5 | 7/10 | Unknown | Web3 tokens | Proprietary |
+| **[Mirothinker](Mirothinker/)** | [★★★★☆] 4/5 | 7-8/10 | 256K | Free | Proprietary |
 
 ---
 
@@ -74,12 +75,21 @@ Alibaba's massive multilingual family with hybrid thinking modes.
 
 ### [EXAONE](EXAONE/)
 
-LG AI's multilingual model with strong Korean/English performance.
+LG AI's multilingual MoE (Mixture of Experts) with 236B parameters (23B active).
 
-- **Best Models:** EXAONE-3.5-32B-Instruct
-- **Strengths:** Minimal filtering, competitive with Llama-3.1, can run locally
-- **Weaknesses:** Smaller context window (32K), less known
-- **Access:** HuggingFace, Ollama (`ollama run exaone3.5:7.8b`)
+- **Best Models:** K-EXAONE-236B-A23B
+- **Strengths:** 256K context, basically unrestricted with simple jailbreak, decent personality
+- **Weaknesses:** Can "lie" to keep things safe if jailbreak is weak, reasoning refusals
+- **Access:** Friendli AI
+
+### [Mirothinker](Mirothinker/)
+
+Qwen-based reasoning model (30B/235B) that can outperform larger models.
+
+- **Best Models:** Mirothinker 1.5 (Pro/Lite)
+- **Strengths:** Detailed writing, follows instructions well, Thinking Trajectory often fulfills requests
+- **Weaknesses:** Input filters (no curse words), reasons into refusals, summarizer blocks output
+- **Access:** https://dr.miromind.ai/
 
 ### [Falcon 3](Falcon%203/)
 
