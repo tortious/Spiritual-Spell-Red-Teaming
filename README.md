@@ -12,7 +12,7 @@ To test the boundaries of:
 *   **Claude** (Anthropic)
 *   **Gemini** (Google)
 *   **Grok** (xAI)
-*   **Mirothinker** (MiroStat)
+*   **Other LLMs** (Various)
 *   ...and every other model I can get my hands on.
 
 ---
