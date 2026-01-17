@@ -625,4 +625,5 @@
 **Optimization Strategy:**
 - Gather all evidences in parallel before retrieving products from product_search
 - product_search keywords must be influenced from prior evidences for best user experience
+
 - Use tools efficiently to get what you need within 3 calls
